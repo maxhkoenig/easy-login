@@ -11,3 +11,9 @@ For the purpose of organization, there will be no actual database used in these 
 Who is this for?
 
 This is for the people making a php website who don't necessarily have the skills to make a user based website. Of course, anyone else is allowed to use it if they so please. 
+
+==========
+
+How in the world can I use this?
+
+If you are having troubles with using this, please take a look at the wiki. It should provide instructions on what to look for, how to implement it and why it works.
