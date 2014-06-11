@@ -2,20 +2,21 @@
     <head>
         <meta charset="utf-8" />
         <title>Home</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
     </head>
     <body>
-     
+     <div id="signup">
       <h3>Signup Here:</h3>
         <form method="post" action="userindex.php">
         
-                Please enter user name: <input type="text" name="username" value="" /><br />
+                 Please enter user name: <input type="text" name="username" value="" />
                  Please enter password: <input type="password" name="password" value="" />
                 <br />
                 <input type="submit" value="Submit"/>
-                
-        
-        
+ 
         </form>
+     </div>
+     
      
     </body>
 </html>
